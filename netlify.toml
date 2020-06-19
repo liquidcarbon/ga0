@@ -17,5 +17,5 @@
   environment = {
     AUTH0_DOMAIN = "liqc.us.auth0.com",
     AUTH0_CLIENTID = "a2KZSV7LUJ54JPxC16GKO8W8vrck1666",
-    AUTH0_CALLBACK = "/callback",
+    AUTH0_CALLBACK = "/callback"
   }
